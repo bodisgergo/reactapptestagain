@@ -1,3 +1,4 @@
+var PORT = process.env.PORT || 5000;
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
